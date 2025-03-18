@@ -224,7 +224,7 @@ class UbuntexIndex {
         else if (score <= 40) classification = "Low Ubuntu Awareness"
         else if (score <= 60) classification = "Moderate Ubuntu Awareness"
         else if (score <= 80) classification = "Strong Ubuntu Traits"
-        else if (score <= 100) classification = "(Ubuntu Ambassador (High Social Contribution)"
+        else if (score <= 100) classification = "Ubuntu Ambassador (High Social Contribution)"
         else classification = "Sorry, your score could not be calculated"
         
         document.getElementById("quiz-container").style.display = "none"
