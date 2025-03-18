@@ -7,7 +7,7 @@ class UbuntexIndex {
     constructor() {
         this.questions = [{
             // empathy (25%)
-            text: "A friend is organizing a neighborhood cleanup event on a weekend when you have personal plans. How likely are you to adjust your schedule to participate?",
+            text: "A friend is organising a neighbourhood cleanup event on a weekend when you have personal plans. How likely are you to adjust your schedule to participate?",
             choices: {
                 A: ["Very likely", 5],
                 B: ["Likely", 4],
@@ -33,7 +33,7 @@ class UbuntexIndex {
                 A: ["Listen carefully and offer support or solutions", 5],
                 B: ["Acknowledge their concerns but remain neutral", 4],
                 C: ["Listen but feel unsure how to respond", 3],
-                D: ["Minimize the issue and shift the topic", 2],
+                D: ["Minimise the issue and shift the topic", 2],
                 E: ["Dismiss their concerns", 1]
             }},{
             text: "Your local community is facing an issue that requires collective action. However, supporting it may mean giving up some personal convenience. How do you approach this?",
