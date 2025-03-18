@@ -74,5 +74,6 @@ button {
     transition: width 0.3s ease-in-out;
 }
 #next-btn:disabled {
+    color: #808080;
     cursor: not-allowed;
 }
