@@ -230,7 +230,7 @@ class UbuntexIndex {
         document.getElementById("quiz-container").style.display = "none"
         const resultContainer = document.getElementById("result")
         resultContainer.style.display = "block"
-        resultContainer.innerHTML = `<h2>Your Ubuntex Index Score: ${score.toFixed(2)}</h2><p>Classification: ${classification}</p>`
+        resultContainer.innerHTML = `<h2>Your Ubuntex Score: ${score.toFixed(2)}</h2><p>Classification: ${classification}</p>`
     }
 }
 
