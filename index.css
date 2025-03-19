@@ -4,9 +4,10 @@
 }
 body { 
     margin: 20px;
-    font-size: larger; 
-    font-family: 'Inter'; 
-}
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Poppins", sans-serif;
+} 
 h1 {
     text-align: center;
 }
