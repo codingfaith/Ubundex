@@ -52,6 +52,7 @@ button {
     background: #36454F;
 }
 #result {
+    font-size: larger;
     text-align: center;
 }
 .progress-container {
